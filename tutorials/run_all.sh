@@ -1,0 +1,9 @@
+./jupyter_to_md.sh Tutorial1_Image_Processing_Essentials.ipynb
+./jupyter_to_md.sh Tutorial1_Image_Processing_Essentials_Boucheron.ipynb
+./jupyter_to_md.sh Tutorial2_Classical_Machine_Learning.ipynb
+./jupyter_to_md.sh Tutorial2_Classical_Machine_Learning_Boucheron.ipynb
+./jupyter_to_md.sh Tutorial3_Deep_Learning_for_Images.ipynb
+./jupyter_to_md.sh Tutorial3_Deep_Learning_for_Images_Boucheron.ipynb
+./jupyter_to_md.sh Tutorial4_Visualizing_and_Modifying_DL_Networks.ipynb
+./jupyter_to_md.sh Tutorial4_Visualizing_and_Modifying_DL_Networks_Boucheron.ipynb
+./jupyter_to_md.sh Tutorial5_Advanced_DL_Networks.ipynb
